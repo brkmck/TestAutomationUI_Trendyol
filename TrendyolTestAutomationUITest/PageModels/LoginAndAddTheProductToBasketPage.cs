@@ -5,7 +5,6 @@ using System;
 using System.Collections.Generic;
 using System.Reflection;
 
-
 namespace TrendyolTestAutomationUITest.PageModels
 {
     public class LoginAndAddTheProductToBasketPage : BasePage
